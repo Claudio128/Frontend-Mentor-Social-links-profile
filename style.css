@@ -78,4 +78,7 @@ button:hover {
     width: 40vh;
     height: 80vh;
   }
+  button {
+  padding: 15px 90px;
+  }
 }
